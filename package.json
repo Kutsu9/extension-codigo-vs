@@ -1,0 +1,34 @@
+{
+  "name": "dark-theme-flutter-kutsu",
+  "displayName": "Dark Theme Flutter Kutsu",
+  "description": "My Preferred Setting for Flutter's Dark Mode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme Flutter Kutsu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Theme Flutter Kutsu-color-theme.json"
+      }
+    ]
+  },
+"icon": "icons/codigo-dark.png",
+"author": {
+  "name": "Franco Kutsukos",
+  "email": "francokutsukos@gmail.com",
+  "url": "https://www.linkedin.com/in/franco-kutsukos/"
+},
+"repository": {
+  "url": "https://github.com/Kutsu9/extension-codigo-vs.git",
+  "type": "git"
+},
+"publisher": "codigo-kutsu"
+
+}
+
